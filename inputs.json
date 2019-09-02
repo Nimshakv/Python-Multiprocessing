@@ -1,0 +1,35 @@
+[
+  {
+    "input1": 1,
+    "properties": [1, 2, 3]
+  },
+  {
+    "input1": 2,
+    "properties": [1, 6, 8]
+  },
+  {
+    "input1": 3,
+    "properties": [4, 3, 9]
+  },
+  {
+    "input1": 4,
+    "properties": [3, 2, 5]
+  },
+  {
+    "input1": 5,
+    "properties": [5, 8, 9]
+  },
+  {
+    "input1": 6,
+    "properties": [2, 1, 6]
+  },
+  {
+    "input1": 7,
+    "properties": [9, 4, 7]
+  },
+
+  {
+    "input1": 8,
+    "properties": [7, 3, 6]
+  }
+]
